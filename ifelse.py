@@ -10,7 +10,7 @@ print("----------------------------")
 
 
 codigo = int(input("digite o codigo do produto desejado "))
-quantidade = int(input("digite a quantidade do seu produto "))
+quantidade = int(input(",,digite a quantidade do seu produto "))
 
 
 
