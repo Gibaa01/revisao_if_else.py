@@ -15,7 +15,7 @@ quantidade = int(input("digite a quantidade do seu produto "))
 
 
 if codigo == 1:
-    preco = 4.00
+    preco = 4.0
 elif codigo == 2:
     preco = 4.50
 elif codigo == 3:
